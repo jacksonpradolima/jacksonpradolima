@@ -17,25 +17,19 @@ Here are some ideas to get you started:
 	[~] $ whoami <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 </h2>
 
-<p align="center">
-	<strong>		
-    <a href="https://www.linkedin.com/in/pradolima/">
-      <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
-    </a>
-    •
-    <a href="mailto:jacksonpradolima@gmail.com">
-      <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
-    </a>
-		•
-    <a href="https://scholar.google.com.br/citations?user=Kx0r5jkAAAAJ">
-      <code><img alt="My Google Scholar" width="34" src="https://img.icons8.com/ios/500/000000/google-scholar--v2.png" /></code>
-    </a>      
-    •
-    <a href="https://profile.codersrank.io/user/jacksonpradolima">
-      <code><img alt="My Coders Rank" width="38" src="https://icons-for-free.com/iconfiles/png/512/codersrank-1324440140264889896.png" /></code>
-    </a>                  
-	</strong>
-</p>
+<!--
+Icons: https://simpleicons.org/
+-->
+
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/jacksonpradolima)](https://github.com/jacksonpradolima)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jacksonpradolima@gmail.com)](mailto:jacksonpradolima@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pradolima/)](https://www.linkedin.com/in/pradolima/)
+[![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-4285f4?style=flat-square&logo=Google-Scholar&logoColor=white&link=https://scholar.google.com.br/citations?user=Kx0r5jkAAAAJ)](https://scholar.google.com.br/citations?user=Kx0r5jkAAAAJ)
+[![Coders Rank Badge](https://img.shields.io/badge/-Coders%20Rank-67a4ac?style=flat-square&logo=CodersRank&logoColor=white&link=https://profile.codersrank.io/user/jacksonpradolima)](https://profile.codersrank.io/user/jacksonpradolima)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-005fed?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/pradolima/)](https://www.facebook.com/pradolima/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jacksonpradolima/)](https://www.instagram.com/jacksonpradolima/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pradolimajack)](https://twitter.com/pradolimajack)
+![Visitors](https://badges.pufler.dev/visits/jacksonpradolima/jacksonpradolima)
 
 
 - :brazil: Brazillian (Santa Catarina / SC)
@@ -97,12 +91,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-<p align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/jacksonpradolima/jacksonpradolima" alt="Visitors badge" />
-   </a>
-</p>
-
 ## Currently working on
 
 - 📌 Continuous Integration 
@@ -112,9 +100,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-<h3 align="center" style="font-family: Consolas, monospace;">
+<h1 align="center" style="font-family: Consolas, monospace;">
 	🔭 Academic Info 🔭
-</h3>
+</h1>
 
 ## Reviewer at
 - 📌 IEEE
