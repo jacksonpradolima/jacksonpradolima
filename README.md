@@ -118,12 +118,12 @@ Icons: https://simpleicons.org/
 
 <br/>
 
-- 📌 [Learning-based prioritization of test cases in continuous integration of highly-configurable software](https://doi.org/10.1145/3382025.3414967) published at **Proceedings of the 24th ACM Conference on Systems and Software Product Line (SPLC'20)**
-- 📌 [A Multi-Armed Bandit Approach for Test Case Prioritization in Continuous Integration Environments](https://doi.org/10.1109/TSE.2020.2992428) published at **IEEE Transactions on Software Engineering (TSE)**
-- 📌 [Test Case Prioritization in Continuous Integration environments: A systematic mapping study](https://doi.org/10.1016/j.infsof.2020.106268) published at **Information and Software Technology**
-- 📌 [A systematic mapping study on higher order mutation testing](https://doi.org/10.1016/j.jss.2019.04.031) published at **Journal of Systems and Software**
-- 📌 [Hyper-Heuristic Based Product Selection for Software Product Line Testing](https://doi.org/10.1109/MCI.2017.2670461) published at **IEEE Computational Intelligence Magazine (CIM)**
-- 📌 [Deriving products for variability test of Feature Models with a hyper-heuristic approach](https://doi.org/10.1016/j.asoc.2016.07.059) published at **Applied Soft Computing (ASOC)** 
+- 📖 [Learning-based prioritization of test cases in continuous integration of highly-configurable software](https://doi.org/10.1145/3382025.3414967) published at **Proceedings of the 24th ACM Conference on Systems and Software Product Line (SPLC'20)**
+- 📖 [A Multi-Armed Bandit Approach for Test Case Prioritization in Continuous Integration Environments](https://doi.org/10.1109/TSE.2020.2992428) published at **IEEE Transactions on Software Engineering (TSE)**
+- 📖 [Test Case Prioritization in Continuous Integration environments: A systematic mapping study](https://doi.org/10.1016/j.infsof.2020.106268) published at **Information and Software Technology**
+- 📖 [A systematic mapping study on higher order mutation testing](https://doi.org/10.1016/j.jss.2019.04.031) published at **Journal of Systems and Software**
+- 📖 [Hyper-Heuristic Based Product Selection for Software Product Line Testing](https://doi.org/10.1109/MCI.2017.2670461) published at **IEEE Computational Intelligence Magazine (CIM)**
+- 📖 [Deriving products for variability test of Feature Models with a hyper-heuristic approach](https://doi.org/10.1016/j.asoc.2016.07.059) published at **Applied Soft Computing (ASOC)** 
 
 <br/>
 
