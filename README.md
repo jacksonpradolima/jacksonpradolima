@@ -40,6 +40,10 @@ Icons: https://simpleicons.org/
 
 <br/><br/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jacksonpradolima&theme=onedark)](https://github.com/jacksonpradolima)
+
+<br/><br/>
+
 ## My Development Stack
 
 **Application and Data**
