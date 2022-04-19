@@ -35,7 +35,7 @@ Icons: https://simpleicons.org/
 - :brazil: Brazillian (Santa Catarina / SC)
 - :man_student: Bachelor in Information Systems at [UDESC](https://www.udesc.br/)
 - :nerd_face: Master in Computer Science at [PPGINF / UFPR](http://www.prppg.ufpr.br/ppginformatica/?lang=pb)
-- :man_technologist: PhD Candidate in Computer Science at [PPGINF / UFPR](http://www.prppg.ufpr.br/ppginformatica/?lang=pb)
+- :man_technologist: PhD in Computer Science at [PPGINF / UFPR](http://www.prppg.ufpr.br/ppginformatica/?lang=pb)
 - :microscope: Reseacher and Member of [Research Group on Software Engineering (GrES)](http://www.inf.ufpr.br/gres/index_en.html)
 
 <br/><br/>
